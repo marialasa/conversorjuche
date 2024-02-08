@@ -1,2 +1,3 @@
 # 🇰🇵 ¿Qué año es en Corea del Norte?
-El presente repositorio presenta un conversor de Calendario Gregoriano a Calendario Juche desarrollado con Python. El proyecto puede ejecutarse <a href="[https://medium.com/condolasa/qu%C3%A9-a%C3%B1o-es-en-corea-del-norte-fcb861c42301](https://colab.research.google.com/drive/1L6YMSxU0Kpczch3_MQwcQvkjv80skRoP?usp=sharing#scrollTo=6CH3CUzeUp-S)https://colab.research.google.com/drive/1L6YMSxU0Kpczch3_MQwcQvkjv80skRoP?usp=sharing#scrollTo=6CH3CUzeUp-S" target="_blank">aqu&iacute;</a>.
+<p>Conversor de calendario juche a calendario gregoriano.</p>
+<p>C&oacute;digo desarrollado con Python y ejecutado en <a href="https://colab.research.google.com/drive/1L6YMSxU0Kpczch3_MQwcQvkjv80skRoP" target="_blank">Colab</a>.</p>
